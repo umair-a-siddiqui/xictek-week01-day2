@@ -1,7 +1,7 @@
-# HisabDo Internship — Day 2: Student Data Analysis with Pandas
+# Xictech Systems Internship — Day 2: Student Data Analysis with Pandas
 
 # Overview
-Day 2 practical task for the HisabDo AI & Software Engineering Internship (AI/ML + Python Track).
+Day 2 practical task for the Xictech AI & Software Engineering Internship (AI/ML + Python Track).
 
 # Project Description
 A Python program that creates a dataset of 10 students and uses Pandas to analyze it.
